@@ -22,8 +22,8 @@ Track time spent on tasks throughout your working day — no account, no cloud, 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/pccardon_amadeus/Carlos-Test.git
-cd Carlos-Test
+https://github.com/chcardonat/Carlos-Test2.git
+cd Carlos-Test2
 
 # 2. Install dependencies
 npm install
